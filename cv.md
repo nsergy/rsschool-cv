@@ -1,4 +1,3 @@
-
 # **Sergey Nikontsev**
 
 
@@ -29,6 +28,8 @@ I am 43 years old, I work as a leading engineer in a car service. The moment has
 * Delphi (basic knowledge)
 * DBMS (basic knowledge)
 * Joomla
+
+---
 
 ## Projects
 
